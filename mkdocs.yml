@@ -1,16 +1,13 @@
 site_name: EPITA - Documentation
 theme: readthedocs
-repo_url: https://github.com/cri-epita/epita-doc/
+repo_url: https://github.com/epita/epita-doc/
 pages:
   - Home: 'index.md'
   - Documentation:
     - PIE: 'pie.md'
-    - Linux netboot: 'archlinux_netboot.md'
     - AFS: 'afs.md'
     - Passwords: 'passwords.md'
     - 'news.md'
-    - 'netsoul.md'
   - Procedures:
     - Changing password: 'change_password.md'
-    - 'redump.md'
   - Contact:  'contact.md'
