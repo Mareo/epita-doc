@@ -10,7 +10,7 @@ In Villejuif, there are two printers available for students. You can access thos
 
 The first page provides informations related to the printer you want to print from, such as:
 - State
-- Ink porcentage
+- Ink percentage
 - Sheets quantity
 
 You need to go in the *print* section to submit your documents.
