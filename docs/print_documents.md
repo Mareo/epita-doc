@@ -16,7 +16,3 @@ The first page provides informations related to the printer you want to print fr
 You need to go in the *print* section to submit your documents.
 
 > Be aware that only *.ps*, *.pdf*, *.prn* or *.rfu* files are accepted. 
-
-## Kremlin-Bicêtre
-
-//TODO
