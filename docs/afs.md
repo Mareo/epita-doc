@@ -22,14 +22,14 @@ It is possible to retrieve initial configuration in the folder : `/afs/cri.epita
 
 If you know the login and password of an user, you can access his afs folder from an other session. It might be useful, for instance, if you can't log in your session because of corrupted config files and want to edit them using the anonym epita account.
 
-To get the rights to edit the content of the afs folder of an user called `login_x`, you shall follow this process :
+To get the rights to edit the content of the afs folder of an user called `login`, you shall follow this process :
 
- * Execute `kinit login_x`
- * Enter `login_x`'s password
+ * Execute `kinit login`
+ * Enter `login`'s password
  * Execute `aklog`
 
 If the user has a login of the form `firstname.lastname` (logins for new users since 2016), the argument for the first step have to be replaced with `kinit firstname_lastname`.
 
-You can then execute `cd /afs/cri.epita.net/user/l/lo/login_x/u/`, read and edit the content of `login_x`'s afs folder.
+You can then execute `cd /afs/cri.epita.net/user/l/lo/login/u/`, read and edit the content of `login`'s afs folder.
 
 If you are using the anonym epita account, do not forget to execute `unlog && destroy` to destroy the token before logging out (alternatively, you may shutdown the computer).

@@ -20,15 +20,16 @@ modifications made outside of the AFS folders are lost on reboot.
 
 ## Epita account
 
-An "epita" account, without any password, is available at any moment. It allows
-one to quickly log in on a computer, even without network (if it is already
-started, obviously). It is strongly recommended to turn off the computer after
-using this account to avoid people from retrieving data by re-logging on it.
+A [CRI account](accounts.md), without any password, is available at any moment.
+It allows one to quickly log in on a computer, even without network (if it is
+already started, obviously). It is strongly recommended to turn off the
+computer after using this account to avoid people from retrieving data by
+re-logging on it.
 
 ## Student session
 
 Each student has a session on the network. To log on it, one has to use his
-login and his "epita" [password](passwords.md).
+login and his CRI [password](passwords.md).
 
 Personal folders are stocked on [AFS](afs.md). It is essential to read this
 topic.

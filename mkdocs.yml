@@ -5,9 +5,10 @@ pages:
   - Home: 'index.md'
   - Documentation:
     - PIE: 'pie.md'
+      - Netboot : 'archlinux_netboot.md'
     - AFS: 'afs.md'
-    - Passwords: 'passwords.md'
     - 'news.md'
-  - Procedures:
-    - Changing password: 'change_password.md'
+  - Accounts:
+    - Cri and Bocal accounts: 'accounts.md'
+    - Recover and modify passwords: 'passwords.md'
   - Contact:  'contact.md'

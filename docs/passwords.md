@@ -1,25 +1,44 @@
-# Passwords
+# Changing your CRI password
 
-Until a better harmonization, students need multiple passwords to use the
-school's different services. They are handled by the Bocal and the CRI.
+It is possible to change the  password to your [CRI Account](accounts.md).
 
-## Bocal
+## Password policy
 
-They are given by the Bocal at the beginning of the scholarship, there are 4 of
-them :
+The password must be as follow:
 
- * password: to check one's emails and to connect to ionis-portal (wifi)
- * pwd_socks: to log on netsoul
- * pwd_ppp: to connect to the [Bocal intranet](http://intra.bocal.org)
- * pwd_num: for digicodes
+ *  At least 10 characters long
+ *  Should have 3 different case (At least one uppercase character, one lower
+    case, and one numerical character)
 
-For new accounts, created after 2016, only "password" is given.
+## Procedure
 
-## Epita
+To change one's password, one has to go to the 
+[CRI intranet](https://intra.cri.epita.net/accounts/profile/).
 
-Every EPITA student is given this password. It serves purposes such as :
+# Password recovery
 
- * UNIX sessions on PXE
- * UNIX exams (SPÉ/ING)
- * ACU intranet
- * some workshops (THLR, algorithms, etc...)
+## Recovering your CRI password
+
+If you lost your CRI password, which is giving you access to the school's 
+computers, you can reinitialize it following this 
+[link](https://intra.cri.epita.fr/accounts/auth/reset/).
+
+You will be asked your login and an email will be send to the @epita.fr email 
+address linked to your CRI account, with instructions and a link for
+reinitialization.
+
+## Recovering your Bocal password
+
+If you lost your Bocal password, which is giving you access to your @epita.fr 
+email and wifi, you have to send a reinitialization request following this 
+[link](https://console.bocal.org/#/recover).
+
+You will be asked your @epita.fr email, and a confirmation code will be send 
+via SMS (or email if you posess an international number). Once this code is 
+validated, your new password will be send to you via SMS (or, once again. 
+email).
+
+If the phone number kept by the Bocal for password recovery is missing or 
+simply erronous, you **must** send a ticket at 
+[tickets@cri.epita.fr](tickets@cri.epita.fr) indicating your login and a french
+ phone number.
