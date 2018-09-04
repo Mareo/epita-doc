@@ -13,7 +13,7 @@ The password must be as follow:
 ## Procedure
 
 To change one's password, one has to go to the 
-[CRI intranet](https://intra.cri.epita.net/accounts/profile/).
+[CRI intranet](https://cri.epita.fr/accounts/profile/).
 
 # Password recovery
 
@@ -21,7 +21,7 @@ To change one's password, one has to go to the
 
 If you lost your CRI password, which is giving you access to the school's 
 computers, you can reinitialize it following this 
-[link](https://intra.cri.epita.fr/accounts/auth/reset/).
+[link](https://cri.epita.fr/accounts/auth/reset/).
 
 You will be asked your login and an email will be send to the @epita.fr email 
 address linked to your CRI account, with instructions and a link for

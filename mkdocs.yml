@@ -5,7 +5,7 @@ pages:
   - Home: 'index.md'
   - Documentation:
     - PIE: 'pie.md'
-      - Netboot : 'archlinux_netboot.md'
+    - Netboot : 'archlinux_netboot.md'
     - AFS: 'afs.md'
     - 'news.md'
   - Accounts:
