@@ -16,7 +16,7 @@ To contact the Bocal, one has to create a ticket via the [intranet](http://intra
 
 ## CRI
 
-To contact the CRI, one has to create a ticket by sending a mail at [tickets@cri.epita.fr](tickets@cri.epit.fr).
+To contact the CRI, one has to create a ticket by sending a mail at [tickets@cri.epita.fr](tickets@cri.epita.fr).
 
 ## Facebook
 
