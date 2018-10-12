@@ -5,6 +5,8 @@ pages:
   - Home: 'index.md'
   - Documentation:
     - PIE: 'pie.md'
+    - 'git.md'
+    - 'wifi.md'
     - Netboot : 'archlinux_netboot.md'
     - AFS: 'afs.md'
     - 'news.md'
