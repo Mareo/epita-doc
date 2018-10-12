@@ -1,6 +1,8 @@
 # AFS (Andrew File System)
 
-Since the start of the 2016 school-year, [AFS](https://www.openafs.org/)  replaces [GlusterFS](https://www.gluster.org) for network shares and student accounts.
+The [AFS](https://www.openafs.org/) is a distributed network file system. Which
+means that any file saved inside the AFS folder will be available on every
+computer at EPITA.
 
 ## Linux session
 
@@ -20,7 +22,7 @@ It is possible to retrieve initial configuration in the folder : `/afs/cri.epita
 
 ## Access AFS folder of an other user
 
-If you know the login and password of an user, you can access his afs folder from an other session. It might be useful, for instance, if you can't log in your session because of corrupted config files and want to edit them using the anonym epita account.
+If you know the login and password of an user, you can access his afs folder from another session. It might be useful, for instance, if you can't log in your session because of corrupted config files and want to edit them using the anonym epita account.
 
 To get the rights to edit the content of the afs folder of an user called `login`, you shall follow this process :
 

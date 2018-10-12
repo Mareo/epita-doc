@@ -11,22 +11,18 @@ The Bocal account is created at the beginning of the scholarship, allowing
 students to:
 
  * Check one's emails on [Office365](https://login.microsoftonline.com/)
- * Connect to Ionis-Portal (wifi)
- * Connect to the [Bocal intranet](http://intra.bocal.org)
+ * Connect to Ionis Portal and IONIS (wifi)
+ * Connect to the [Bocal intranet](http://console.bocal.org)
 
-For new accounts, created after 2016, only "password" is given. However, for
-previous accounts, 4 were given:
-
- * password: to check one's emails and to connect to ionis-portal (wifi)
- * pwd_socks: to log on netsoul
- * pwd_ppp: to connect to the [Bocal intranet](http://intra.bocal.org)
- * pwd_num: for digicodes (not used anymore)
+Your bocal password cannot be changed manually but it can be regenerated on the
+[Bocal intranet](http://console.bocal.org/#/profile).
 
 ## Epita
 
-Every EPITA student is given a CRI account. It serves purposes such as :
+Every EPITA student is given a CRI account. It serves purposes such as:
 
  * UNIX sessions on PXE
  * UNIX exams (SPÉ/ING)
+ * CRI's intranet
  * Assistants' intranets
  * Some workshops (THLR, algorithms, etc...)

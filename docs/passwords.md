@@ -15,17 +15,13 @@ The password must be as follow:
 To change one's password, one has to go to the 
 [CRI intranet](https://cri.epita.fr/accounts/profile/).
 
+# Changing your Bocal password
+
+Your bocal password cannot be changed manually but it can be regenerated on the
+[Bocal intranet](http://console.bocal.org).
+
+
 # Password recovery
-
-## Recovering your CRI password
-
-If you lost your CRI password, which is giving you access to the school's 
-computers, you can reinitialize it following this 
-[link](https://cri.epita.fr/accounts/auth/reset/).
-
-You will be asked your login and an email will be send to the @epita.fr email 
-address linked to your CRI account, with instructions and a link for
-reinitialization.
 
 ## Recovering your Bocal password
 
@@ -42,3 +38,13 @@ If the phone number kept by the Bocal for password recovery is missing or
 simply erronous, you **must** send a ticket at 
 [tickets@cri.epita.fr](tickets@cri.epita.fr) indicating your login and a french
  phone number.
+
+## Recovering your CRI password
+
+If you lost your CRI password, which is giving you access to the school's 
+computers, you can reinitialize it following this 
+[link](https://cri.epita.fr/accounts/auth/reset/).
+
+You will be asked your login and an email will be send to the @epita.fr email 
+address linked to your CRI account, with instructions and a link for
+reinitialization.
