@@ -37,15 +37,15 @@ This section assumes you want to connect to the IONIS WiFi on an Archlinux
 distribution, and have an activated WiFi interface.
 To get the name of your WiFi interface you can type: `$ iw dev`.
 
-This configuration is using _netctl_, a profile-based network manager
+This configuration is using **netctl**, a profile-based network manager
 for archlinux.
 Thus, you will have to configure a network _profile_. A simple profile is
 presented below. For more information, please visit the
-[archlinux wiki on netctl](wiki.archlinux.org/index.php/netctl).
+[archlinux wiki on netctl](https://wiki.archlinux.org/index.php/netctl).
 
-1. Create a file in `/etc/netctl/`. Its name should be self-explanatory. A good
-   name would be \<interface\>-IONIS.
-2. Fill it with the following configuration:
+1. Create a file in `/etc/netctl/`. Its name should be self-explanatory.
+   A good name would be \<interface\>-IONIS.
+2. Fill it with the following configuration, with your parameters:
 ```sh
 Description='EPITA IONIS profile'
 Interface=<interface>
@@ -61,13 +61,13 @@ WPAConfigSection=(
 )
 ```
 3. Start the profile.
-`$ netctl start <profile_name>`
-You can also enable it to make it start at boot.
-`$ netctl enable <profile_name>`
+`$ netctl start <file_name>`
+You can also enable it, to automatically try to connect to IONIS at boot.
+`$ netctl enable <file_name>`
 
 If you wish to avoid having a password stored in plain text, you may want to
-try _wpa\_passphrase_ to make a pre-shared key instead, calculated from the
+try _wpa\_passphrase_ to make a pre-shared key instead, calculated from an input
 passphrase and the SSID. Please refer to this
 [netctl section](https://wiki.archlinux.org/index.php/netctl#Obfuscate_wireless_passphrase).
 
-You can find configuration examples in `/etc/netctl/examples/`.
+You can find other configuration examples in `/etc/netctl/examples/`.
