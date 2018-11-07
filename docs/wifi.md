@@ -49,6 +49,7 @@ presented below. For more information, please visit the
 ```sh
 Description='EPITA IONIS profile'
 Interface=<interface>
+ESSID='IONIS'
 Connection=wireless
 Security=wpa-configsection
 IP=dhcp
