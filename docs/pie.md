@@ -7,12 +7,12 @@ time - day and night. Other computer rooms may have specific schedule depending
 on their location. The machines have no hard drive, they boot via the network
 using PXE (Preboot Execution Environment).
 
-A menu is proposed with an archlinux session. Archlinux is the operating
+A menu is proposed with an Archlinux session. Archlinux is the operating
 system chosen by the school.
 
 ## Live session
 
-The archlinux image evolves through the year to allow students to realize
+The Archlinux image evolves through the year to allow students to realize
 their projects.
 
 The image is loaded in the memory. Which means that the entirety of the

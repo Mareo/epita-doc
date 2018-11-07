@@ -38,10 +38,10 @@ distribution, and have an activated WiFi interface.
 To get the name of your WiFi interface you can type: `$ iw dev`.
 
 This configuration is using **netctl**, a profile-based network manager
-for archlinux.
+for Archlinux.
 Thus, you will have to configure a network _profile_. A simple profile is
 presented below. For more information, please visit the
-[archlinux wiki on netctl](https://wiki.archlinux.org/index.php/netctl).
+[Archlinux wiki on netctl](https://wiki.archlinux.org/index.php/netctl).
 
 1. Create a file in `/etc/netctl/`. Its name should be self-explanatory.
    A good name would be \<interface\>-IONIS.
