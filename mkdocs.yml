@@ -9,6 +9,7 @@ pages:
     - 'wifi.md'
     - Netboot : 'archlinux_netboot.md'
     - AFS: 'afs.md'
+    - 'map.md'
     - 'news.md'
   - Accounts:
     - Cri and Bocal accounts: 'accounts.md'
