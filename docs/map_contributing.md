@@ -8,8 +8,8 @@ The only requirements is that each computer is a `rect` with the following
 properties are set:
 
 - `class`: `computer`
-- `id`: the hostname of the computer. Underscore must be replace with dots. (e.g.
-  `r01p01_demo_sm_cri_epita_net`)
+- `id`: the hostname of the computer. Dots must be replace with underscores.
+  (e.g. `r01p01_demo_sm_cri_epita_net`)
 
 ## Create or edit a map
 Although not required, `inkscape` is recommended to design a map.
