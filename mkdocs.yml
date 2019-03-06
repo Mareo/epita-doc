@@ -13,6 +13,7 @@ pages:
     - AFS: 'afs.md'
     - 'map.md'
     - 'news.md'
+    - 'print.md'
   - Accounts:
     - Cri and Bocal accounts: 'accounts.md'
     - Recover and modify passwords: 'passwords.md'
