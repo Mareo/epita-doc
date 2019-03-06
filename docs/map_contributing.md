@@ -38,4 +38,4 @@ exported later for production.
 
 ## Links
 Every maps (including `demo.svg` and `demo_optimized.svg`) are available on the
-CRI's github: [here](https://github.com/epita/FIXME).
+CRI's github: [here](https://github.com/epita/sm-maps-svg).
