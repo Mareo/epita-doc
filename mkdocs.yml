@@ -1,6 +1,8 @@
 site_name: EPITA - Documentation
 theme: readthedocs
 repo_url: https://github.com/epita/epita-doc/
+markdown_extensions:
+  - admonition
 pages:
   - Home: 'index.md'
   - Documentation:
@@ -14,4 +16,8 @@ pages:
   - Accounts:
     - Cri and Bocal accounts: 'accounts.md'
     - Recover and modify passwords: 'passwords.md'
+  - Contributing:
+    - 'map_contributing.md'
+    - 'doc_contributing.md'
   - Contact:  'contact.md'
+
