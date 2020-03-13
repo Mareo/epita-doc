@@ -36,8 +36,8 @@ email).
 
 If the phone number kept by the Bocal for password recovery is missing or 
 simply erronous, you **must** send a ticket at 
-[tickets@cri.epita.fr](tickets@cri.epita.fr) indicating your login and a french
- phone number.
+[tickets@cri.epita.fr](mailto:tickets@cri.epita.fr) indicating your login and a
+french phone number.
 
 ## Recovering your CRI password
 
