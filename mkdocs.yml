@@ -3,7 +3,7 @@ theme: readthedocs
 repo_url: https://github.com/epita/epita-doc/
 markdown_extensions:
   - admonition
-pages:
+nav:
   - Home: 'index.md'
   - Documentation:
     - PIE: 'pie.md'
@@ -14,6 +14,7 @@ pages:
     - 'map.md'
     - 'news.md'
     - 'print.md'
+    - CRI VM: 'cri_vm.md'
   - Accounts:
     - Cri and Bocal accounts: 'accounts.md'
     - Recover and modify passwords: 'passwords.md'
