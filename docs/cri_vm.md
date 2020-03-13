@@ -7,7 +7,7 @@ computer.
 
 Install [Virtual Box](https://www.virtualbox.org/).
 
-On linux you can install it with your packet manager ([Debian](https://wiki.debian.org/VirtualBox) or
+On linux you can install it with your package manager ([Debian](https://wiki.debian.org/VirtualBox) or
 [ArchLinux](https://wiki.archlinux.org/index.php/VirtualBox)).
 
 ## Second step
